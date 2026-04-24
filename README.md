@@ -1,5 +1,5 @@
 
-#What your project does 
+#*What your project does* 
 1. Loads a CV file (PDF or DOCX) You give it a file like:
 cv.pdf
 cv.docx
