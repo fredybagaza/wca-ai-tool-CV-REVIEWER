@@ -1,6 +1,6 @@
 #1 Coverpage
 Group name=AI code
-Member names=Bagaza Rugari FRedy, asachi beverly, David raul
+Member names=Bagaza Rugari, Asachi Beverly, David Raul
 Github link= https://github.com/fredybagaza/wca-ai-tool-CV-REVIEWER
 Tool name= wca-ai-tool-CV-REVIEWER
 Date= 26th April 2026
