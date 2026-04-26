@@ -54,7 +54,7 @@ Analyze the following CV and provide:
         return f"Error: {str(e)}"
 
 
-# 🎯 Main program
+#  Main program
 def main():
     print("=== CV Reviewer Tool ===")
     print("1. Paste CV")
